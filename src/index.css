@@ -12,6 +12,15 @@ body {
   height: 30px;
 }
 
+.header-row {
+  padding: 10px;
+  background-color: #000000;
+}
+
+.header-row h1 {
+  color: #FFFFFF;
+}
+
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 10vmin;
