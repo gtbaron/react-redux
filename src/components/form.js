@@ -1,6 +1,6 @@
 import React from "react";
 import {connect} from "react-redux";
-import {addArticle} from "../js/actions";
+import {addArticle} from "../js/actions/addArticle";
 
 
 const mapDispatchToProps = dispatch => {
